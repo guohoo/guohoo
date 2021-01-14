@@ -16,4 +16,4 @@
 [1]:https://github.com/guohoo/guohoo/blob/main/img/72619839_p1.jpg
 [2]:https://img.shields.io/badge/Windows-10-blue?style=social&logo=windows&logoColor=blue
 [3]:https://img.shields.io/badge/Fedora-WSL2-white?style=social&logo=fedora&logoColor=%23294172
-[4]:https://img.shields.io/badge/IDE-VS%20Code-blue?style=social&logo=visual-studio-code&logoColor=blue
+[4]:https://img.shields.io/badge/Editor-VS%20Code-blue?style=social&logo=visual-studio-code&logoColor=blue
